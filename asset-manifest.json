@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/xxx/static/css/main.38c9ff4e.css",
+    "main.js": "/xxx/static/js/main.3827ea0b.js",
+    "static/js/458.14f7c902.chunk.js": "/xxx/static/js/458.14f7c902.chunk.js",
+    "static/js/858.470b4f31.chunk.js": "/xxx/static/js/858.470b4f31.chunk.js",
+    "static/js/631.8014765e.chunk.js": "/xxx/static/js/631.8014765e.chunk.js",
+    "static/js/439.6ae539e2.chunk.js": "/xxx/static/js/439.6ae539e2.chunk.js",
+    "static/js/787.db994812.chunk.js": "/xxx/static/js/787.db994812.chunk.js",
+    "static/js/774.f370a5ff.chunk.js": "/xxx/static/js/774.f370a5ff.chunk.js",
+    "static/js/459.0f569fd1.chunk.js": "/xxx/static/js/459.0f569fd1.chunk.js",
+    "static/js/94.14bc093d.chunk.js": "/xxx/static/js/94.14bc093d.chunk.js",
+    "static/js/419.75e4704a.chunk.js": "/xxx/static/js/419.75e4704a.chunk.js",
+    "static/media/colleagues-working-cozy-office-medium-shot.jpg": "/xxx/static/media/colleagues-working-cozy-office-medium-shot.ede31081d8882c544d99.jpg",
+    "static/media/bootstrap-icons.woff?": "/xxx/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/faq_graphic.jpg": "/xxx/static/media/faq_graphic.d1d172e90baa9a8691da.jpg",
+    "static/media/bootstrap-icons.woff2?": "/xxx/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/businesswoman-using-tablet-analysis.jpg": "/xxx/static/media/businesswoman-using-tablet-analysis.3b16468a30a69c8c4ff2.jpg",
+    "static/media/inve1.png": "/xxx/static/media/inve1.19ca1f74ab0b072b67ad.png",
+    "static/media/sales1.png": "/xxx/static/media/sales1.103e4c9b9270535a0601.png",
+    "static/media/gainfinance.png": "/xxx/static/media/gainfinance.46d63b3461bf8b94d4e8.png",
+    "static/media/fx1.png": "/xxx/static/media/fx1.7b14821ba7977fbeecc8.png",
+    "static/media/undraw_Remote_design_team_re_urdx.png": "/xxx/static/media/undraw_Remote_design_team_re_urdx.d2dcf37c96ffd51de121.png",
+    "index.html": "/xxx/index.html",
+    "main.38c9ff4e.css.map": "/xxx/static/css/main.38c9ff4e.css.map",
+    "main.3827ea0b.js.map": "/xxx/static/js/main.3827ea0b.js.map",
+    "458.14f7c902.chunk.js.map": "/xxx/static/js/458.14f7c902.chunk.js.map",
+    "858.470b4f31.chunk.js.map": "/xxx/static/js/858.470b4f31.chunk.js.map",
+    "631.8014765e.chunk.js.map": "/xxx/static/js/631.8014765e.chunk.js.map",
+    "787.db994812.chunk.js.map": "/xxx/static/js/787.db994812.chunk.js.map",
+    "774.f370a5ff.chunk.js.map": "/xxx/static/js/774.f370a5ff.chunk.js.map",
+    "459.0f569fd1.chunk.js.map": "/xxx/static/js/459.0f569fd1.chunk.js.map",
+    "94.14bc093d.chunk.js.map": "/xxx/static/js/94.14bc093d.chunk.js.map",
+    "419.75e4704a.chunk.js.map": "/xxx/static/js/419.75e4704a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c9ff4e.css",
+    "static/js/main.3827ea0b.js"
+  ]
+}
