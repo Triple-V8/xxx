@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/xxx/static/css/main.0e7bab61.css",
-    "main.js": "/xxx/static/js/main.78d96503.js",
+    "main.css": "/xxx/static/css/main.23749328.css",
+    "main.js": "/xxx/static/js/main.84b0b301.js",
     "static/js/458.374075af.chunk.js": "/xxx/static/js/458.374075af.chunk.js",
     "static/js/858.2719252a.chunk.js": "/xxx/static/js/858.2719252a.chunk.js",
     "static/js/631.e2ba0ec7.chunk.js": "/xxx/static/js/631.e2ba0ec7.chunk.js",
@@ -12,17 +12,17 @@
     "static/js/419.4ff7730d.chunk.js": "/xxx/static/js/419.4ff7730d.chunk.js",
     "static/media/bootstrap-icons.woff?": "/xxx/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
     "static/media/bootstrap-icons.woff2?": "/xxx/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/testpd.png": "/xxx/static/media/testpd.211e6591820098336e6d.png",
     "static/media/inve1.png": "/xxx/static/media/inve1.19ca1f74ab0b072b67ad.png",
     "static/media/faq1.jpeg": "/xxx/static/media/faq1.e66afb30f2d16bf99bbd.jpeg",
     "static/media/sales1.png": "/xxx/static/media/sales1.103e4c9b9270535a0601.png",
-    "static/media/testbgdiv.jpeg": "/xxx/static/media/testbgdiv.529a29639387fb4fcd0f.jpeg",
+    "static/media/testbgdiv.jpeg": "/xxx/static/media/testbgdiv.700465aa22e6a1402bd3.jpeg",
     "static/media/greenbg.avif": "/xxx/static/media/greenbg.a05b7cc0dbfa53de9129.avif",
     "static/media/gainfinance.png": "/xxx/static/media/gainfinance.532741d102d5dcf46825.png",
-    "static/media/testpd.avif": "/xxx/static/media/testpd.94e150d56db387cf1132.avif",
     "static/media/greenlong.avif": "/xxx/static/media/greenlong.a16442b6328e74ffc6bc.avif",
     "index.html": "/xxx/index.html",
-    "main.0e7bab61.css.map": "/xxx/static/css/main.0e7bab61.css.map",
-    "main.78d96503.js.map": "/xxx/static/js/main.78d96503.js.map",
+    "main.23749328.css.map": "/xxx/static/css/main.23749328.css.map",
+    "main.84b0b301.js.map": "/xxx/static/js/main.84b0b301.js.map",
     "458.374075af.chunk.js.map": "/xxx/static/js/458.374075af.chunk.js.map",
     "858.2719252a.chunk.js.map": "/xxx/static/js/858.2719252a.chunk.js.map",
     "631.e2ba0ec7.chunk.js.map": "/xxx/static/js/631.e2ba0ec7.chunk.js.map",
@@ -32,7 +32,7 @@
     "419.4ff7730d.chunk.js.map": "/xxx/static/js/419.4ff7730d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e7bab61.css",
-    "static/js/main.78d96503.js"
+    "static/css/main.23749328.css",
+    "static/js/main.84b0b301.js"
   ]
 }
