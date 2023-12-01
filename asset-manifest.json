@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/xxx/static/css/main.584f6132.css",
-    "main.js": "/xxx/static/js/main.88b33eee.js",
+    "main.css": "/xxx/static/css/main.009f7ba7.css",
+    "main.js": "/xxx/static/js/main.fa981440.js",
     "static/js/458.374075af.chunk.js": "/xxx/static/js/458.374075af.chunk.js",
     "static/js/858.2719252a.chunk.js": "/xxx/static/js/858.2719252a.chunk.js",
     "static/js/631.e2ba0ec7.chunk.js": "/xxx/static/js/631.e2ba0ec7.chunk.js",
@@ -21,8 +21,8 @@
     "static/media/purplebg.jpeg": "/xxx/static/media/purplebg.e8e77602f30423927921.jpeg",
     "static/media/gainfinance.png": "/xxx/static/media/gainfinance.532741d102d5dcf46825.png",
     "index.html": "/xxx/index.html",
-    "main.584f6132.css.map": "/xxx/static/css/main.584f6132.css.map",
-    "main.88b33eee.js.map": "/xxx/static/js/main.88b33eee.js.map",
+    "main.009f7ba7.css.map": "/xxx/static/css/main.009f7ba7.css.map",
+    "main.fa981440.js.map": "/xxx/static/js/main.fa981440.js.map",
     "458.374075af.chunk.js.map": "/xxx/static/js/458.374075af.chunk.js.map",
     "858.2719252a.chunk.js.map": "/xxx/static/js/858.2719252a.chunk.js.map",
     "631.e2ba0ec7.chunk.js.map": "/xxx/static/js/631.e2ba0ec7.chunk.js.map",
@@ -32,7 +32,7 @@
     "419.4ff7730d.chunk.js.map": "/xxx/static/js/419.4ff7730d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.584f6132.css",
-    "static/js/main.88b33eee.js"
+    "static/css/main.009f7ba7.css",
+    "static/js/main.fa981440.js"
   ]
 }
